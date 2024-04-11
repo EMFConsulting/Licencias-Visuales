@@ -1,0 +1,20 @@
+{
+    "name": "Drill Down Visuals theme for efabiani@emfconsulting.com.ar",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "paid": [
+                    {
+                        "show": true
+                    }
+                ],
+                "license": [
+                    {
+                        "key": "Partner ZoomCharts Drill Down License Key (valid until: 2025-03-15);PBI-hd095c6we#SspCYm2/4WRL/lDyoBGe5k1Up1Yd6shf++zg1RmIK3mYeuznQ0F5QwHl2V24ggU9WStEHZ6re8RU+kM5OQNCvR9mY1tTJq4OPyFE09SjG9Aed8xmPxGIkt506PuqAg4+HeYgMxElcKHRXQU1A1tgRqjgtgi65qQ8WX+D//1P",
+                        "hash": "Nx4ntvAnvi4FvdC7Jxu3kMOcutkXwrkg+8XrMLqCkzprsv9divNRFNlGcesJGy9YedXLZABrhauyHCu2euZ1Yx5t1ujPTLpFrGhMTgPv217polbDBwoGt6un3B7rWVvg+M6Gtafk6hdB5l6ZQUNsqQIadCROKPkK0BrIIkkPGTx49g=="
+                    }
+                ]
+            }
+        }
+    }
+}
