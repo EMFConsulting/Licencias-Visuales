@@ -1,5 +1,12 @@
 Setup Instructions
 https://slvd-bi.notion.site/Set-Up-Instructions-5299043585f1477bbd76fd2e716dedf0
 
+SQL User
+
+Create Primery Key in Table
+ALTER TABLE dbo.Gal1818
+ADD PK int IDENTITY(1,1)
+
 Connection String
 https://www.connectionstrings.com/sql-server-2019/
+Server= LAPTOP-RR73HLUN\SQLEXPRESS ; SQLEXPRESS ; Database= SARTHOU ; User Id=LAPTOP-RR73HLUN\efabiani ;Password=Pagoda1850 ;
