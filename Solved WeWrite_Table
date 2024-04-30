@@ -10,3 +10,22 @@ ADD PK int IDENTITY(1,1)
 Connection String
 https://www.connectionstrings.com/sql-server-2019/
 Server= LAPTOP-RR73HLUN\SQLEXPRESS ; SQLEXPRESS ; Database= SARTHOU ; User Id=LAPTOP-RR73HLUN\efabiani ;Password=Pagoda1850 ;
+
+--------------------------------------------------------------
+
+Conexion de Prueba
+
+Server: esteban.database.windows.net
+(SQL Server Authentication)
+Username: esteban
+Pass: WeWrite123!
+
+You have to connect to a specific database called "database"
+
+I have granted you admin rights to this database, feel free to use it in any way you wish.
+
+Connection string looks like this:
+Server=tcp:esteban.database.windows.net,1433;Initial Catalog=database;Persist Security Info=False;User ID=esteban;Password=WeWrite123!;
+MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+--------------------------------------------------------------
