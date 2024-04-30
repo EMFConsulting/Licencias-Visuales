@@ -13,14 +13,18 @@ Server= LAPTOP-RR73HLUN\SQLEXPRESS ; SQLEXPRESS ; Database= SARTHOU ; User Id=LA
 
 --------------------------------------------------------------
 
-Conexion de Prueba
+Conexion de Prueba "Solved"
 
 Server: esteban.database.windows.net
 (SQL Server Authentication)
 Username: esteban
 Pass: WeWrite123!
 
-You have to connect to a specific database called "database"
+Database: "database"
+
+Network packed size : 4096
+Connection time out: 30
+Encrypt connection yes
 
 I have granted you admin rights to this database, feel free to use it in any way you wish.
 
