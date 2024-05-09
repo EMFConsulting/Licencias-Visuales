@@ -33,3 +33,5 @@ Server=tcp:esteban.database.windows.net,1433;Initial Catalog=database;Persist Se
 MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
 
 --------------------------------------------------------------
+
+Connectionstrings.com is another resource to get examples for connection strings.
